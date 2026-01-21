@@ -3,7 +3,6 @@
 # Hello, I'm Henrique! 👋
 
 ### Computer Science Student at the University of Essex 🇬🇧
-#### Focusing on Procedural Programming & Algorithms
 
 ---
 
