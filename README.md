@@ -19,6 +19,6 @@ I am utilising industry-standard tools to implement core computer science concep
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,github,vscode,bash,linux&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,git,github,vscode,pycharm" />
   </a>
 </div>
