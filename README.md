@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Henry99s/Henry99s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Henrique! 👋
 
-Here are some ideas to get you started:
+### Computer Science Student at the University of Essex 🇬🇧
+#### Focusing on Foundations of Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+I am currently at the start of my journey in software development. My primary focus is building a strong understanding of logic and computer science fundamentals through my university modules.
+</p>
+
+</div>
