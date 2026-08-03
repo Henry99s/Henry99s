@@ -7,17 +7,15 @@
 ---
 
 <p align="center">
-I am currently undertaking the <b>Fundamentals of Programming</b> module, building a robust understanding of software architecture "from the ground up". My focus is on mastering procedural paradigms, memory management, and algorithmic design before moving to higher-level abstractions.
+I build web applications from the backend out — data models, server-side logic, and the security controls that hold them together. I like understanding why something works before reaching for a framework that hides it.
 </p>
 
 </div>
 
 ### 🛠️ Current Tech Stack & Tools
 
-I am utilising industry-standard tools to implement core computer science concepts:
-
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,github,vscode,pycharm" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,sqlite,python,html,css,git,github,vscode" />
   </a>
 </div>
