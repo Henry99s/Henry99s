@@ -16,6 +16,6 @@ I build web applications from the backend out — data models, server-side logic
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,sqlite,python,html,css,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,sqlite,python" />
   </a>
 </div>
